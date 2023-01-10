@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akul Varshney</h1>
 <h3 align="center">WEB-DEVELOPER | PROGRAMMER</h3>
 
+- ⚒️ Currently Working on **College Placement Portal**
+
 - 🌱 I’m currently learning **NEXT.js**
 
 - 👨‍💻 All of my projects are available at [https://theakulvarshney.web.app/](https://theakulvarshney.web.app/)

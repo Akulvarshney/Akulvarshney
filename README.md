@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://theakulvarshney.web.app/](https://theakulvarshney.web.app/)
 
-- 📫 How to reach me **allenv213@icloud.com**
+- 📫 How to reach me **akulv.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
